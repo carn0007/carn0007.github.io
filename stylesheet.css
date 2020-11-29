@@ -203,3 +203,7 @@ div.bodytext
     text-align:justify;
     
 }
+li
+{
+	margin: 25px;
+}
